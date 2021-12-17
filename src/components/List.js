@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import React from 'react'
 import { FiTrash2 } from 'react-icons/fi';
 
 const List = ({items,deleteTask,selectTask,deselectTask}) => {
